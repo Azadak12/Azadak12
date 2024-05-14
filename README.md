@@ -8,6 +8,7 @@
   <a href="https://instagram.com/kalamak66" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-kalamak66-purple?style=flat&logo=instagram" alt="Instagram">
   </a>
+  <img src="https://img.shields.io/badge/Discord-kalamuf12-%237289DA?style=flat&logo=discord" alt="Discord">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
