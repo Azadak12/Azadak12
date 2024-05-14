@@ -27,3 +27,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&column=7&margin-w=15&margin-h=15&theme=algolia" alt="GitHub Trophies">
 </p>
+![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepository?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepository?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/yourusername/yourrepository?style=social)
