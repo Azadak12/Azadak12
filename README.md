@@ -1,6 +1,11 @@
 <h1 align="center">🚀 Hey there, I'm Abdul Kalam</h1>
 <h3 align="center">Web Stylist | Frontend Guru | React Fanatic</h3>
 
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&column=7&margin-w=15&margin-h=15&theme=algolia" alt="GitHub Trophies">
+</p>
+
 <p align="center">Hey! I'm Abdul Kalam, a passionate web developer from Pakistan. I love diving into new technologies, particularly React, and I'm always eager to learn and grow in this ever-evolving field. Collaboration is where the magic happens, and I thrive in environments where diverse minds come together to create something amazing. Let's connect and build something great together! 💻</p>
 
 <p align="center">
