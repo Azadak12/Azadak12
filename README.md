@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/abdul-kalam-%e2%9c%a8-714a87259" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Kalam-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/abdulkalam" target="_blank">
+  <a href=["https://instagram.com/abdulkalam"](https://www.instagram.com/kalamak66/) target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@abdulkalam-purple?style=flat&logo=instagram" alt="Instagram">
   </a>
   <img src="https://img.shields.io/badge/Discord-kalamuf12-%237289DA?style=flat&logo=discord" alt="Discord">
