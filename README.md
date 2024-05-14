@@ -1,10 +1,7 @@
 <h1 align="center">🚀 Hey there, I'm Abdul Kalam</h1>
 <h3 align="center">Web Stylist | Frontend Guru | React Fanatic</h3>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&column=7&margin-w=15&margin-h=15&theme=algolia" alt="GitHub Trophies">
-</p>
+
 
 <p align="center">Hey! I'm Abdul Kalam, a passionate web developer from Pakistan. I love diving into new technologies, particularly React, and I'm always eager to learn and grow in this ever-evolving field. Collaboration is where the magic happens, and I thrive in environments where diverse minds come together to create something amazing. Let's connect and build something great together! 💻</p>
 
@@ -25,4 +22,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
+</p>
+<h3>🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&column=7&margin-w=15&margin-h=15&theme=algolia" alt="GitHub Trophies">
 </p>
