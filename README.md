@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hey there, I'm Abdul Kalam</h1>
 <h3 align="center">Web Stylist | Frontend Guru | React Fanatic</h3>
 
-<p align="center">Hey! I'm Abdul Kalam, a passionate web developer from Pakistan. I love diving into new technologies, particularly React and Python, and I'm always eager to learn and grow in this ever-evolving field. Collaboration is where the magic happens, and I thrive in environments where diverse minds come together to create something amazing. Let's connect and build something great together! 💻</p>
+<p align="center">Hey! I'm Abdul Kalam, a passionate web developer from Pakistan. I love diving into new technologies, particularly React, and I'm always eager to learn and grow in this ever-evolving field. Collaboration is where the magic happens, and I thrive in environments where diverse minds come together to create something amazing. Let's connect and build something great together! </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/abdul-kalam-%e2%9c%a8-714a87259" target="_blank">
