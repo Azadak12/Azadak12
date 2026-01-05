@@ -1,24 +1,39 @@
 <h1 align="center">🚀 Hey there, I'm Abdul Kalam</h1>
-<h3 align="center">Web Stylist | Frontend Guru | React Fanatic</h3>
-
-<p align="center">Hey! I'm Abdul Kalam, a passionate web developer from Pakistan. I love diving into new technologies, particularly React, and I'm always eager to learn and grow in this ever-evolving field. Collaboration is where the magic happens, and I thrive in environments where diverse minds come together to create something amazing. Let's connect and build something great together! 💻</p>
+<h3 align="center">GoHighLevel (GHL) Expert | Funnels • Automations • CRM Systems</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdul-kalam-%e2%9c%a8-714a87259" target="_blank">
+  Hey! I'm Abdul Kalam from Pakistan — I help businesses turn GoHighLevel into a complete growth system.
+  I build high-converting funnels, set up pipelines & CRM, automate follow-ups (SMS/Email/WhatsApp), and connect tools via webhooks/APIs
+  so leads get captured, nurtured, booked, and tracked automatically.
+  If you want a clean, scalable setup inside GHL with real results and clarity — let’s connect.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/abdul-kalam-%e2%9c%a8-714a87259" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Kalam-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/kalamak66/" target="_blank">
+  <a href="https://www.instagram.com/kalamak66/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Instagram-@kalamak66-purple?style=flat&logo=instagram" alt="Instagram">
   </a>
   <img src="https://img.shields.io/badge/Discord-kalamuf12-%237289DA?style=flat&logo=discord" alt="Discord">
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">GHL Focus Areas:</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="80" height="80"/>
+  ✅ Funnel & Landing Page Builds (Ads-ready, mobile-first)<br/>
+  ✅ CRM + Pipeline Setup (stages, tags, opportunities, reporting)<br/>
+  ✅ Automations & Workflows (nurture, reminders, follow-ups, reactivation)<br/>
+  ✅ Calendars, Forms & Surveys (booking + no-show reduction)<br/>
+  ✅ Integrations (webhooks, Zapier/Make/n8n, external tools)<br/>
+  ✅ Reputation & Messaging (Google reviews, 2-way SMS/email systems)
+</p>
+
+<h3 align="center">Tools & Tech I Use:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/GoHighLevel-GHL-2979FF?style=for-the-badge" alt="GoHighLevel"/>
+  <img src="https://img.shields.io/badge/Automation-Workflows-00BFA5?style=for-the-badge" alt="Automation"/>
+  <img src="https://img.shields.io/badge/Webhooks-APIs-1B1F3B?style=for-the-badge" alt="Webhooks APIs"/>
+  <img src="https://img.shields.io/badge/Zapier-Make-n8n-0A0A0A?style=for-the-badge" alt="Zapier Make n8n"/>
 </p>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
